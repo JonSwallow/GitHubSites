@@ -1,6 +1,6 @@
 Jon Swallow 51
 
-[Live "Algorithm" Sketch](https://jonswallow.github.io/120-work/hw-6/)
+[Live "Algorithm" Sketch](https://jonswallow.github.io/github_repository/hw-6/)
 
 
 

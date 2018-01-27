@@ -1,6 +1,6 @@
 SWALLOW_HW-4_Hw-5_Mart341WebDev
 
-[Live Page](https://jonswallow.github.io/web-dev-hw/project-3)
+[Live Page](https://jonswallow.github.io/github_repository/project-3)
 
 ## Project 3
 ![No Is Not Enough](images/naomiKlein.jpg)
@@ -197,7 +197,7 @@ Here are a few pictures of the end results.
 ---
 ## Moving On
 Still off nicotine can you tell by my attitude?
-1. I apologize in advance 
+1. I apologize in advance
 ## Breakthroughs
 1. I made some bad ass textures on my own.
 2. I figured out how to apply them (Yay Google)

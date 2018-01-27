@@ -1,6 +1,6 @@
 Jon Swallow 51
 
-[Live "ForLoop" Sketch](https://jonswallow.github.io/120-work/hw-8/)
+[Live "ForLoop" Sketch](https://jonswallow.github.io/github_repository/hw-8/)
 
 
 

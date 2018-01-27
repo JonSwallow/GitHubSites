@@ -1,6 +1,6 @@
 Jon Swallow 51
 
-[Live "Interacting Objects" Sketch](https://jonswallow.github.io/120-work/hw-12/)
+[Live "Interacting Objects" Sketch](https://jonswallow.github.io/github_repository/hw-12/)
 
 
 ## Homework 12
